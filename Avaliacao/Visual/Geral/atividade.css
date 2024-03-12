@@ -1,0 +1,58 @@
+
+body{
+    background-color: black;
+    color: white;
+    margin: 15px;
+}
+#a1{
+    background-color:red ;
+    margin: 20px;
+    width: 400;
+}
+#a2{
+    background-color:orangered ;
+    margin: 20px;
+    margin-left: 15vmin;
+    width: 400;
+}
+#a3{
+    background-color:orange;
+    margin: 20px;
+    margin-left: 30vmin;
+    width: 400;
+}
+#a4{
+    background-color:green ;
+    margin: 20px;
+    margin-left: 45vmin;
+    width: 400;
+}
+#a5{
+    background-color:rgb(49, 138, 255) ;
+    margin: 20px;
+    margin-left: 60vmin;
+    width: 400;
+}
+#a6{
+    background-color:blue ;
+    margin: 20px;
+    margin-left: 75vmin;
+    width: 400;
+}
+#a7{
+    background-color:plum ;
+    margin: 20px;
+    margin-left: 90vmin;
+    width: 400;
+}
+.Imagem1{
+   display:flex;
+   justify-content: center;
+}
+.Imagem2{
+    display: flex;
+    justify-content: center;
+}
+
+
+
